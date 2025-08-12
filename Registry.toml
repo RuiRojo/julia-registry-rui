@@ -1,0 +1,5 @@
+name = "RuiRojo-public"
+uuid = "c9b51bb6-9077-4eaf-b8bf-9621aa8ad7d4"
+repo = "https://github.com/pakaca/julia-registry-rui"
+
+[packages]
