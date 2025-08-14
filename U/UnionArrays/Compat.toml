@@ -1,0 +1,5 @@
+[0]
+Adapt = "2 - 4"
+Setfield = "0.3 - 0.8"
+Transducers = "0.4"
+julia = "1"
