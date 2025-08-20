@@ -1,0 +1,10 @@
+[0]
+ArchGDAL = "c9ce4bd3-c3d5-55b8-8973-c0e20141b8c3"
+CoordinateTransformations = "150eb455-5306-5404-9cee-2592286d6298"
+GRIBDatasets = "82be9cdb-ee19-4151-bdb3-b400788d9abc"
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+NCDatasets = "85f8d34a-cbdd-5861-8df4-14fed0d494ab"
+Proj = "c94c279d-25a6-4763-9509-64d165bea63e"
+RasterDataSources = "3cb90ccd-e1b6-4867-9617-4276c8b2ca36"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+ZarrDatasets = "519a4cdf-1362-424a-9ea1-b1d782dbb24b"

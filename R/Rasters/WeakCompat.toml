@@ -1,0 +1,10 @@
+[0]
+ArchGDAL = "0.9 - 0.10"
+CoordinateTransformations = "0.6.2 - 0.6"
+GRIBDatasets = "0.2 - 0.4"
+Makie = "0.20 - 0.24"
+NCDatasets = "0.13 - 0.14"
+Proj = "1.7.2 - 1"
+RasterDataSources = "0.7"
+StatsBase = "0.34"
+ZarrDatasets = "0.1"
