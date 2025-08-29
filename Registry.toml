@@ -4,6 +4,7 @@ repo = "https://github.com/pakaca/julia-registry-rui"
 
 [packages]
 483efd93-6af7-4b79-b9c0-8b88c9c8962d = { name = "OceanData", path = "O/OceanData" }
+50f5130f-5541-47eb-b03f-458bb767042d = { name = "SplitStepFourier3D", path = "S/SplitStepFourier3D" }
 6cd66ae4-5932-4b96-926d-e73e578e42cc = { name = "FoldsCUDA", path = "F/FoldsCUDA" }
 a3a2b9e3-a471-40c9-b274-f788e487c689 = { name = "Rasters", path = "R/Rasters" }
 b2830079-5d0a-461a-85e0-6b6445f889a9 = { name = "Geo", path = "G/Geo" }
